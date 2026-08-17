@@ -17,8 +17,6 @@ python snake.py
 
 ## 📸 Screenshots
 ### Gameplay
-![Snake Game](<img width="742" height="576" alt="GAMEPLAY" src="https://github.com/user-attachments/assets/339151de-bc95-46e8-995a-e38eab31f42b" />
-)
+![Snake Game](https://github.com/user-attachments/assets/339151de-bc95-46e8-995a-e38eab31f42b)
 ### Game Over
-![Game Over](<img width="749" height="640" alt="GAME OVER" src="https://github.com/user-attachments/assets/04ac4ae5-51d1-453f-88be-b925cc83ede4" />
-)
+![Game Over](https://github.com/user-attachments/assets/04ac4ae5-51d1-453f-88be-b925cc83ede4)
